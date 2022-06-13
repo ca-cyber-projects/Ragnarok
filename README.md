@@ -8,7 +8,7 @@ Description: Create a Python Program to help us understand personal finance
 
 Categories: Finance, Scripting, Programming 
 
-Project Credit:  
+Project Credit: See 'Resources' seciton for videos used during Compound Interest portion of program
 
 Time Frame: Monday, June 6th - 
 
